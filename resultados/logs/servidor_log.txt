@@ -1,0 +1,286 @@
+[11:59:52] Esperando nodos de procesamiento...
+[12:00:04] -. Nodo conectado desde ('127.0.0.1', 63470)
+[12:00:04] Nodo identificado: NODO_QUIJOTE
+[12:00:04] NODO_QUIJOTE -> Nota: 92 | Vel: 127 | Texto: '﻿Prólogo
+
+  
+Al libro de don Q...'
+[12:00:05] NODO_QUIJOTE -> Nota: 70 | Vel: 120 | Texto: 'Y, para que dello conste, di l...'
+[12:00:05] NODO_QUIJOTE -> Nota: 57 | Vel: 40 | Texto: 'Juan Gallo de Andrada...'
+[12:00:06] NODO_QUIJOTE -> Nota: 64 | Vel: 125 | Texto: 'TESTIMONIO DE LAS ERRATAS
+
+Est...'
+[12:00:06] NODO_QUIJOTE -> Nota: 56 | Vel: 115 | Texto: 'En el Colegio de la Madre de
+D...'
+[12:00:06] NODO_QUIJOTE -> Nota: 62 | Vel: 40 | Texto: 'El licenciado Francisco Murcia...'
+[12:00:07] -. Nodo conectado desde ('127.0.0.1', 63472)
+[12:00:07] Nodo identificado: NODO_MIO_CID
+[12:00:07] NODO_QUIJOTE -> Nota: 106 | Vel: 127 | Texto: 'EL REY
+
+Por cuanto por parte d...'
+[12:00:07] NODO_QUIJOTE -> Nota: 53 | Vel: 127 | Texto: 'Por la cual, por os hacer bien...'
+[12:00:07] NODO_MIO_CID -> Nota: 55 | Vel: 55 | Texto: 'El Cid convoca a sus vasallos;...'
+[12:00:08] NODO_QUIJOTE -> Nota: 72 | Vel: 127 | Texto: 'La cual dicha
+pena sea la terc...'
+[12:00:08] NODO_MIO_CID -> Nota: 48 | Vel: 40 | Texto: 'Adiós del Cid a Vivar...'
+[12:00:08] NODO_QUIJOTE -> Nota: 44 | Vel: 127 | Texto: 'Con tanto que todas las veces ...'
+[12:00:08] NODO_MIO_CID -> Nota: 72 | Vel: 127 | Texto: 'Envió a buscar a todos sus par...'
+[12:00:08] NODO_QUIJOTE -> Nota: 27 | Vel: 127 | Texto: 'Y mandamos al impresor que así...'
+[12:00:08] NODO_MIO_CID -> Nota: 66 | Vel: 105 | Texto: 'A los que conmigo vengan que D...'
+[12:00:09] NODO_QUIJOTE -> Nota: 67 | Vel: 120 | Texto: 'Y mandamos a los del nuestro C...'
+[12:00:09] NODO_MIO_CID -> Nota: 89 | Vel: 127 | Texto: 'Habló entonces Álvar Fáñez, de...'
+[12:00:09] NODO_QUIJOTE -> Nota: 63 | Vel: 95 | Texto: 'Fecha en Valladolid, a veinte ...'
+[12:00:09] NODO_MIO_CID -> Nota: 57 | Vel: 55 | Texto: '”
+Aprobación dieron todos a lo...'
+[12:00:10] NODO_QUIJOTE -> Nota: 45 | Vel: 40 | Texto: 'YO, EL REY...'
+[12:00:10] NODO_MIO_CID -> Nota: 68 | Vel: 45 | Texto: 'Mucho que agradece el Cid aque...'
+[12:00:10] NODO_QUIJOTE -> Nota: 60 | Vel: 45 | Texto: 'Por mandado del Rey nuestro se...'
+[12:00:10] NODO_MIO_CID -> Nota: 66 | Vel: 80 | Texto: 'El Cid sale de Vivar, a Burgos...'
+[12:00:10] NODO_QUIJOTE -> Nota: 68 | Vel: 127 | Texto: 'AL DUQUE DE BÉJAR,
+
+marqués de...'
+[12:00:10] NODO_MIO_CID -> Nota: 59 | Vel: 90 | Texto: 'Los ojos de Mío Cid mucho llan...'
+[12:00:11] NODO_QUIJOTE -> Nota: 71 | Vel: 40 | Texto: 'Miguel de Cervantes Saavedra...'
+[12:00:11] NODO_MIO_CID -> Nota: 68 | Vel: 127 | Texto: 'Vio como estaban las puertas a...'
+[12:00:11] NODO_QUIJOTE -> Nota: 84 | Vel: 127 | Texto: 'PRÓLOGO
+
+Desocupado lector: si...'
+[12:00:11] NODO_MIO_CID -> Nota: 73 | Vel: 95 | Texto: 'Y habló, como siempre habla, t...'
+[12:00:12] NODO_QUIJOTE -> Nota: 61 | Vel: 90 | Texto: 'Pero no he podido yo contraven...'
+[12:00:12] NODO_MIO_CID -> Nota: 66 | Vel: 40 | Texto: 'Contra mí tramaron esto mis en...'
+[12:00:12] NODO_QUIJOTE -> Nota: 86 | Vel: 127 | Texto: 'Y así,
+¿qué podrá engendrar el...'
+[12:00:12] NODO_MIO_CID -> Nota: 57 | Vel: 85 | Texto: '2
+
+Agüeros en el camino de Bur...'
+[12:00:12] NODO_QUIJOTE -> Nota: 85 | Vel: 127 | Texto: 'El sosiego, el lugar apacible,...'
+[12:00:12] NODO_MIO_CID -> Nota: 55 | Vel: 110 | Texto: 'Cuando salen de Vivar ven la c...'
+[12:00:13] NODO_QUIJOTE -> Nota: 76 | Vel: 127 | Texto: 'Acontece tener un padre un hij...'
+[12:00:13] NODO_MIO_CID -> Nota: 72 | Vel: 127 | Texto: 'Movió Mío Cid los hombros y sa...'
+[12:00:13] NODO_QUIJOTE -> Nota: 33 | Vel: 127 | Texto: 'Pero yo, que, aunque parezco p...'
+[12:00:13] NODO_MIO_CID -> Nota: 45 | Vel: 65 | Texto: '“
+
+3
+
+
+Ya por la ciudad de Bur...'
+[12:00:14] NODO_QUIJOTE -> Nota: 71 | Vel: 127 | Texto: 'Todo lo cual te esenta y hace ...'
+[12:00:14] NODO_MIO_CID -> Nota: 70 | Vel: 40 | Texto: 'Sesenta pendones lleva detrás ...'
+[12:00:14] NODO_QUIJOTE -> Nota: 77 | Vel: 127 | Texto: 'Sólo quisiera dártela monda y ...'
+[12:00:14] NODO_MIO_CID -> Nota: 65 | Vel: 85 | Texto: 'Todos salían a verle, niño, mu...'
+[12:00:14] NODO_QUIJOTE -> Nota: 74 | Vel: 110 | Texto: 'Porque te sé decir que,
+aunque...'
+[12:00:14] NODO_MIO_CID -> Nota: 64 | Vel: 50 | Texto: '¡Cuántos ojos que lloraban de ...'
+[12:00:15] NODO_QUIJOTE -> Nota: 37 | Vel: 127 | Texto: 'Muchas veces tomé la pluma par...'
+[12:00:15] NODO_MIO_CID -> Nota: 54 | Vel: 90 | Texto: 'Y de los labios de todos sale ...'
+[12:00:15] NODO_QUIJOTE -> Nota: 31 | Vel: 127 | Texto: '— Porque, ¿cómo queréis vos qu...'
+[12:00:15] NODO_MIO_CID -> Nota: 46 | Vel: 40 | Texto: '”
+
+4
+
+Nadie hospeda al Cid...'
+[12:00:16] NODO_QUIJOTE -> Nota: 66 | Vel: 40 | Texto: '¡Pues qué, cuando citan la Div...'
+[12:00:16] NODO_MIO_CID -> Nota: 59 | Vel: 50 | Texto: 'Sólo una niña le dirige la pal...'
+[12:00:16] NODO_QUIJOTE -> Nota: 76 | Vel: 127 | Texto: 'No dirán sino
+que son unos san...'
+[12:00:16] NODO_MIO_CID -> Nota: 54 | Vel: 70 | Texto: 'El Cid se ve obligado a acampa...'
+[12:00:16] NODO_QUIJOTE -> Nota: 70 | Vel: 127 | Texto: 'De todo esto ha de carecer mi ...'
+[12:00:17] NODO_MIO_CID -> Nota: 62 | Vel: 100 | Texto: 'De grado le albergarían, pero ...'
+[12:00:17] NODO_QUIJOTE -> Nota: 29 | Vel: 40 | Texto: 'B...'
+[12:00:17] NODO_MIO_CID -> Nota: 83 | Vel: 127 | Texto: 'La noche pasada a Burgos lleva...'
+[12:00:17] NODO_QUIJOTE -> Nota: 29 | Vel: 40 | Texto: 'C...'
+[12:00:17] NODO_MIO_CID -> Nota: 59 | Vel: 90 | Texto: 'Gran dolor tienen en Burgos to...'
+[12:00:18] NODO_QUIJOTE -> Nota: 68 | Vel: 110 | Texto: ', comenzando en Aristóteles y ...'
+[12:00:18] NODO_MIO_CID -> Nota: 57 | Vel: 85 | Texto: 'Se dirige Mío Cid adonde siemp...'
+[12:00:18] NODO_QUIJOTE -> Nota: 94 | Vel: 127 | Texto: 'También ha de
+carecer mi libro...'
+[12:00:18] NODO_MIO_CID -> Nota: 54 | Vel: 110 | Texto: 'Por miedo del rey Alfonso acor...'
+[12:00:18] NODO_QUIJOTE -> Nota: 94 | Vel: 127 | Texto: 'En fin, señor y amigo mío —pro...'
+[12:00:19] NODO_MIO_CID -> Nota: 59 | Vel: 85 | Texto: 'La gente de Mío Cid a grandes ...'
+[12:00:19] NODO_QUIJOTE -> Nota: 72 | Vel: 120 | Texto: 'De aquí nace la
+suspensión y e...'
+[12:00:19] NODO_MIO_CID -> Nota: 69 | Vel: 127 | Texto: 'Mío Cid picó el caballo, a la ...'
+[12:00:19] NODO_QUIJOTE -> Nota: 88 | Vel: 127 | Texto: 'Oyendo lo cual mi amigo, dándo...'
+[12:00:19] NODO_MIO_CID -> Nota: 70 | Vel: 127 | Texto: 'La niña de nueve años muy cerc...'
+[12:00:20] NODO_QUIJOTE -> Nota: 50 | Vel: 85 | Texto: 'Pero agora veo
+que estáis tan ...'
+[12:00:20] NODO_MIO_CID -> Nota: 73 | Vel: 125 | Texto: 'No nos atrevemos, Cid, a darte...'
+[12:00:20] NODO_QUIJOTE -> Nota: 73 | Vel: 127 | Texto: '¿Cómo que
+es posible que cosas...'
+[12:00:20] NODO_MIO_CID -> Nota: 53 | Vel: 55 | Texto: 'Cid, en el mal de nosotros vos...'
+[12:00:20] NODO_QUIJOTE -> Nota: 57 | Vel: 95 | Texto: 'A la fe, esto no nace de falta...'
+[12:00:21] NODO_MIO_CID -> Nota: 61 | Vel: 50 | Texto: 'Seguid y que os proteja Dios c...'
+[12:00:21] NODO_QUIJOTE -> Nota: 55 | Vel: 40 | Texto: '¿Queréis ver si es verdad lo q...'
+[12:00:21] NODO_MIO_CID -> Nota: 47 | Vel: 60 | Texto: '”
+Esto le dijo la niña y se vo...'
+[12:00:21] NODO_QUIJOTE -> Nota: 82 | Vel: 127 | Texto: 'Pues estadme
+atento y veréis c...'
+[12:00:21] NODO_MIO_CID -> Nota: 55 | Vel: 60 | Texto: 'Bien claro ha visto Ruy Díaz q...'
+[12:00:22] NODO_QUIJOTE -> Nota: 61 | Vel: 127 | Texto: '— Decid —le repliqué yo, oyend...'
+[12:00:22] NODO_MIO_CID -> Nota: 72 | Vel: 127 | Texto: 'De allí se aparta, por Burgos ...'
+[12:00:22] NODO_QUIJOTE -> Nota: 46 | Vel: 127 | Texto: 'A lo cual él dijo:
+
+— Lo prime...'
+[12:00:22] NODO_MIO_CID -> Nota: 64 | Vel: 85 | Texto: 'Cuando acabó su oración el Cid...'
+[12:00:22] NODO_QUIJOTE -> Nota: 100 | Vel: 127 | Texto: '»En lo de citar en las márgene...'
+[12:00:23] NODO_MIO_CID -> Nota: 66 | Vel: 90 | Texto: 'Junto a Burgos, esa villa, en ...'
+[12:00:23] NODO_QUIJOTE -> Nota: 57 | Vel: 65 | Texto: 'Y luego, en el margen, citar a...'
+[12:00:23] NODO_MIO_CID -> Nota: 59 | Vel: 105 | Texto: 'Mío Cid el de Vivar que en bue...'
+[12:00:23] NODO_QUIJOTE -> Nota: 70 | Vel: 95 | Texto: 'Si tratáredes
+del poder de la ...'
+[12:00:23] NODO_MIO_CID -> Nota: 61 | Vel: 45 | Texto: 'Pero en torno suyo hay guerrer...'
+[12:00:24] NODO_QUIJOTE -> Nota: 88 | Vel: 127 | Texto: 'Si de la amistad y amor que Di...'
+[12:00:24] NODO_MIO_CID -> Nota: 55 | Vel: 45 | Texto: 'Así acampó Mío Cid cual si and...'
+[12:00:24] NODO_QUIJOTE -> Nota: 71 | Vel: 70 | Texto: 'Si tratáredes de malos pensami...'
+[12:00:24] NODO_MIO_CID -> Nota: 63 | Vel: 95 | Texto: 'Prohibido tiene el rey que en ...'
+[12:00:24] NODO_QUIJOTE -> Nota: 78 | Vel: 127 | Texto: 'Si de la
+instabilidad de los a...'
+[12:00:25] NODO_MIO_CID -> Nota: 53 | Vel: 50 | Texto: 'No se atreven a venderle ni la...'
+[12:00:25] NODO_QUIJOTE -> Nota: 59 | Vel: 127 | Texto: 'Y con estos latinicos y otros ...'
+[12:00:25] NODO_MIO_CID -> Nota: 55 | Vel: 60 | Texto: '5
+
+Martín Antolínez viene de B...'
+[12:00:25] NODO_QUIJOTE -> Nota: 108 | Vel: 127 | Texto: '»En lo que toca el poner anota...'
+[12:00:25] NODO_MIO_CID -> Nota: 72 | Vel: 127 | Texto: 'El buen Martín Antolínez, aque...'
+[12:00:26] NODO_QUIJOTE -> Nota: 85 | Vel: 127 | Texto: 'Tras esto, para mostraros
+homb...'
+[12:00:26] NODO_MIO_CID -> Nota: 68 | Vel: 85 | Texto: 'Muy contento que se puso el Ca...'
+[12:00:26] NODO_QUIJOTE -> Nota: 106 | Vel: 127 | Texto: 'Si tratáredes de ladrones, yo ...'
+[12:00:26] NODO_MIO_CID -> Nota: 74 | Vel: 127 | Texto: 'Habló Martín Antolínez, escuch...'
+[12:00:26] NODO_QUIJOTE -> Nota: 75 | Vel: 110 | Texto: 'Si tratáredes de amores, con d...'
+[12:00:27] NODO_MIO_CID -> Nota: 61 | Vel: 95 | Texto: 'porque he de ser acusado, Cid,...'
+[12:00:27] NODO_QUIJOTE -> Nota: 69 | Vel: 127 | Texto: 'Y
+si no queréis andaros por ti...'
+[12:00:27] NODO_MIO_CID -> Nota: 66 | Vel: 127 | Texto: 'Si logro escapar con vos, Camp...'
+[12:00:27] NODO_QUIJOTE -> Nota: 78 | Vel: 127 | Texto: 'En resolución, no hay más sino...'
+[12:00:27] NODO_MIO_CID -> Nota: 62 | Vel: 60 | Texto: '”
+
+
+
+6
+
+El Cid, emprobrecido, ...'
+[12:00:28] NODO_QUIJOTE -> Nota: 62 | Vel: 95 | Texto: '»Vengamos ahora a la citación ...'
+[12:00:28] NODO_MIO_CID -> Nota: 51 | Vel: 40 | Texto: 'Las arcas de arena...'
+[12:00:28] NODO_QUIJOTE -> Nota: 72 | Vel: 127 | Texto: 'El remedio que esto tiene es m...'
+[12:00:28] NODO_MIO_CID -> Nota: 67 | Vel: 95 | Texto: 'Habla entonces Mío Cid, que en...'
+[12:00:28] NODO_QUIJOTE -> Nota: 95 | Vel: 127 | Texto: 'Pues ese mismo abecedario pond...'
+[12:00:29] NODO_MIO_CID -> Nota: 47 | Vel: 55 | Texto: '”
+Si Dios me da vida he de dob...'
+[12:00:29] NODO_QUIJOTE -> Nota: 62 | Vel: 110 | Texto: 'Y más, que no habrá quien se p...'
+[12:00:29] NODO_MIO_CID -> Nota: 68 | Vel: 100 | Texto: 'Ahora ya tengo gastado todo mi...'
+[12:00:29] NODO_QUIJOTE -> Nota: 100 | Vel: 127 | Texto: 'Cuanto más que, si bien caigo ...'
+[12:00:29] NODO_MIO_CID -> Nota: 57 | Vel: 105 | Texto: 'Plata y oro necesito para toda...'
+[12:00:30] NODO_QUIJOTE -> Nota: 78 | Vel: 125 | Texto: 'Sólo
+tiene que aprovecharse de...'
+[12:00:30] NODO_MIO_CID -> Nota: 76 | Vel: 125 | Texto: 'Martín, con vuestro consejo ha...'
+[12:00:30] NODO_QUIJOTE -> Nota: 39 | Vel: 127 | Texto: 'Y,
+pues esta vuestra escritura...'
+[12:00:30] NODO_MIO_CID -> Nota: 62 | Vel: 55 | Texto: '7
+
+Las arcas destinadas para o...'
+[12:00:30] NODO_QUIJOTE -> Nota: 80 | Vel: 127 | Texto: 'Procurad también que, leyendo ...'
+[12:00:31] NODO_MIO_CID -> Nota: 53 | Vel: 55 | Texto: 'Bermejo ha de ser el cuero y l...'
+[12:00:31] NODO_QUIJOTE -> Nota: 79 | Vel: 127 | Texto: 'En efecto, llevad la mira pues...'
+[12:00:31] NODO_MIO_CID -> Nota: 66 | Vel: 110 | Texto: 'Buscadme a Raquel y Vidas, dec...'
+[12:00:31] NODO_QUIJOTE -> Nota: 108 | Vel: 127 | Texto: 'Con silencio grande estuve esc...'
+[12:00:31] NODO_MIO_CID -> Nota: 60 | Vel: 95 | Texto: 'Que mis bienes pesan mucho y n...'
+[12:00:32] NODO_QUIJOTE -> Nota: 86 | Vel: 127 | Texto: 'Yo
+no quiero encarecerte el se...'
+[12:00:32] NODO_MIO_CID -> Nota: 66 | Vel: 110 | Texto: 'Que me juzgue el Creador, y qu...'
+[12:00:32] NODO_QUIJOTE -> Nota: 52 | Vel: 60 | Texto: 'Y con esto, Dios te dé salud, ...'
+[12:00:32] NODO_MIO_CID -> Nota: 55 | Vel: 55 | Texto: '8
+
+Martín Antolínez vuelve a B...'
+[12:00:32] NODO_QUIJOTE -> Nota: 53 | Vel: 40 | Texto: 'Vale...'
+[12:00:33] NODO_MIO_CID -> Nota: 75 | Vel: 127 | Texto: 'A lo que el Cid le mandó, Mart...'
+[12:00:33] NODO_QUIJOTE -> Nota: 62 | Vel: 127 | Texto: 'AL LIBRO DE DON QUIJOTE DE LA ...'
+[12:00:33] NODO_MIO_CID -> Nota: 56 | Vel: 40 | Texto: '9
+
+Trato de Martín Antolínez c...'
+[12:00:33] NODO_QUIJOTE -> Nota: 59 | Vel: 127 | Texto: 'Mas si el pan no se te cue-
+po...'
+[12:00:33] NODO_MIO_CID -> Nota: 47 | Vel: 40 | Texto: 'Éstos van a la tienda del Cid...'
+[12:00:34] NODO_QUIJOTE -> Nota: 72 | Vel: 127 | Texto: 'Y, pues la expiriencia ense-
+q...'
+[12:00:34] NODO_MIO_CID -> Nota: 53 | Vel: 40 | Texto: 'Cargan con las arcas de arena...'
+[12:00:34] NODO_QUIJOTE -> Nota: 88 | Vel: 127 | Texto: 'De un noble hidalgo manche-
+co...'
+[12:00:34] NODO_MIO_CID -> Nota: 64 | Vel: 85 | Texto: 'A los judíos encuentra cuando ...'
+[12:00:35] NODO_QUIJOTE -> Nota: 69 | Vel: 85 | Texto: 'No indiscretos hieroglí-
+estam...'
+[12:00:35] NODO_MIO_CID -> Nota: 71 | Vel: 90 | Texto: 'Les saluda el burgalés, muy at...'
+[12:00:35] NODO_QUIJOTE -> Nota: 69 | Vel: 127 | Texto: 'Si en la dirección te humi-,
+
+...'
+[12:00:35] NODO_MIO_CID -> Nota: 53 | Vel: 50 | Texto: 'En secreto yo querría hablar c...'
+[12:00:35] NODO_QUIJOTE -> Nota: 57 | Vel: 95 | Texto: '''
+Pues al cielo no le plu-
+qu...'
+[12:00:35] NODO_MIO_CID -> Nota: 57 | Vel: 45 | Texto: 'No le hicieron esperar; en un ...'
+[12:00:36] NODO_QUIJOTE -> Nota: 73 | Vel: 127 | Texto: 'No me despuntes de agu-,
+ni me...'
+[12:00:36] NODO_MIO_CID -> Nota: 79 | Vel: 127 | Texto: '“Mis buenos Raquel y Vidas, ve...'
+[12:00:36] NODO_QUIJOTE -> Nota: 63 | Vel: 120 | Texto: '''
+No te metas en dibu-,
+ni en...'
+[12:00:36] NODO_MIO_CID -> Nota: 73 | Vel: 127 | Texto: 'De cobrar parias a moros el re...'
+[12:00:37] NODO_QUIJOTE -> Nota: 62 | Vel: 127 | Texto: 'Que suelen en caperu-
+darles a...'
+[12:00:37] NODO_MIO_CID -> Nota: 57 | Vel: 45 | Texto: 'En dos arcas muy repletas tien...'
+[12:00:37] NODO_QUIJOTE -> Nota: 66 | Vel: 90 | Texto: 'Advierte que es desati-,
+siend...'
+[12:00:37] NODO_MIO_CID -> Nota: 92 | Vel: 127 | Texto: 'Ya sabéis que don Alfonso de n...'
+[12:00:37] NODO_QUIJOTE -> Nota: 70 | Vel: 127 | Texto: 'Deja que el hombre de jui-,
+en...'
+[12:00:37] NODO_MIO_CID -> Nota: 63 | Vel: 127 | Texto: 'Coged las arcas del Cid, poned...'
+[12:00:38] NODO_QUIJOTE -> Nota: 31 | Vel: 127 | Texto: 'AMADÍS DE GAULA A DON QUIJOTE ...'
+[12:00:38] NODO_MIO_CID -> Nota: 60 | Vel: 80 | Texto: '”
+Raquel y Vidas están un rato...'
+[12:00:38] NODO_QUIJOTE -> Nota: 84 | Vel: 127 | Texto: 'DON BELIANÍS DE GRECIA A DON Q...'
+[12:00:38] NODO_MIO_CID -> Nota: 60 | Vel: 105 | Texto: 'Cuando el Cid cobró las parias...'
+[12:00:39] NODO_QUIJOTE -> Nota: 66 | Vel: 125 | Texto: 'Hazañas di a la Fama que etern...'
+[12:00:39] NODO_MIO_CID -> Nota: 72 | Vel: 40 | Texto: 'Quien muchos caudales lleva nu...'
+[12:00:39] NODO_QUIJOTE -> Nota: 57 | Vel: 95 | Texto: 'Tuve a mis pies postrada la Fo...'
+[12:00:39] NODO_MIO_CID -> Nota: 73 | Vel: 75 | Texto: 'Quedémonos con las arcas, buen...'
+[12:00:39] NODO_QUIJOTE -> Nota: 68 | Vel: 100 | Texto: 'Más, aunque sobre el cuerno de...'
+[12:00:39] NODO_MIO_CID -> Nota: 58 | Vel: 90 | Texto: 'Pero queremos saber qué nos pi...'
+[12:00:40] NODO_QUIJOTE -> Nota: 76 | Vel: 127 | Texto: 'LA SEÑORA ORIANA A DULCINEA DE...'
+[12:00:40] NODO_MIO_CID -> Nota: 59 | Vel: 127 | Texto: '”
+Dice Martín Antolínez, muy p...'
+[12:00:40] NODO_QUIJOTE -> Nota: 77 | Vel: 110 | Texto: '¡Oh, quién de tus deseos y lib...'
+[12:00:40] NODO_MIO_CID -> Nota: 67 | Vel: 80 | Texto: 'Muchos hombres se le juntan y ...'
+[12:00:41] NODO_QUIJOTE -> Nota: 64 | Vel: 85 | Texto: '¡Oh, quién tan castamente se e...'
+[12:00:41] NODO_MIO_CID -> Nota: 56 | Vel: 50 | Texto: '”
+Dijeron Raquel y Vidas: “Se ...'
+[12:00:41] NODO_QUIJOTE -> Nota: 71 | Vel: 105 | Texto: 'Que así envidiada fuera, y no ...'
+[12:00:41] NODO_MIO_CID -> Nota: 70 | Vel: 80 | Texto: '“El Cid tiene mucha prisa, la ...'
+[12:00:41] NODO_QUIJOTE -> Nota: 87 | Vel: 127 | Texto: 'GANDALÍN, ESCUDERO DE AMADÍS D...'
+[12:00:41] NODO_MIO_CID -> Nota: 66 | Vel: 90 | Texto: 'Dijeron Raque y Vidas: “No se ...'
+[12:00:42] NODO_QUIJOTE -> Nota: 65 | Vel: 127 | Texto: 'Ya la azada o la hoz poco repu...'
+[12:00:42] NODO_MIO_CID -> Nota: 81 | Vel: 127 | Texto: 'Dijo Martín Antolínez: “No ten...'
+[12:00:42] NODO_QUIJOTE -> Nota: 66 | Vel: 95 | Texto: 'Envidio a tu jumento y a tu no...'
+[12:00:42] NODO_MIO_CID -> Nota: 66 | Vel: 40 | Texto: 'Dijeron Raquel y Vidas: “Confo...'
+[12:00:43] NODO_QUIJOTE -> Nota: 59 | Vel: 40 | Texto: 'Salve otra vez, ¡oh Sancho...'
+[12:00:43] NODO_MIO_CID -> Nota: 67 | Vel: 45 | Texto: 'En cuanto traigan las arcas te...'
+[12:00:43] NODO_QUIJOTE -> Nota: 63 | Vel: 80 | Texto: ', tan buen hombre,
+que a solo ...'
+[12:00:43] NODO_MIO_CID -> Nota: 65 | Vel: 95 | Texto: 'El buen Martín Antolínez muy d...'
+[12:00:43] NODO_QUIJOTE -> Nota: 74 | Vel: 85 | Texto: 'DEL DONOSO, POETA ENTREVERADO,...'
+[12:00:43] NODO_MIO_CID -> Nota: 65 | Vel: 90 | Texto: 'No quieren pasar el puente, po...'
+[12:00:44] NODO_QUIJOTE -> Nota: 72 | Vel: 127 | Texto: 'Puse pies en polvoro-,
+por viv...'
+[12:00:44] NODO_MIO_CID -> Nota: 51 | Vel: 105 | Texto: 'Aquí veis cómo a la tienda del...'
+[12:00:44] NODO_QUIJOTE -> Nota: 64 | Vel: 50 | Texto: 'A Rocinante
+Soy Rocinante, el ...'
+[12:00:44] NODO_MIO_CID -> Nota: 70 | Vel: 90 | Texto: 'Sonrióse Mío Cid, y así comenz...'
+[12:00:45] Nodo desconectado: ('127.0.0.1', 63470)
+[12:00:45] NODO_MIO_CID -> Nota: 53 | Vel: 55 | Texto: 'Yo me marcho de Castilla porqu...'
+[12:00:45] NODO_MIO_CID -> Nota: 75 | Vel: 90 | Texto: 'De aquello que yo ganare habrá...'
+[12:00:45] NODO_MIO_CID -> Nota: 62 | Vel: 40 | Texto: 'Entonces Raquel y Vidas van be...'
+[12:00:46] NODO_MIO_CID -> Nota: 76 | Vel: 127 | Texto: 'Martín Antolínez tiene el trat...'
+[12:00:46] NODO_MIO_CID -> Nota: 76 | Vel: 127 | Texto: 'Dijo Martín Antolínez: “Raquel...'
+[12:00:47] NODO_MIO_CID -> Nota: 61 | Vel: 50 | Texto: '”
+¡Que alegres que se ponían c...'
+[12:00:47] NODO_MIO_CID -> Nota: 68 | Vel: 40 | Texto: 'Forzudos son, mas cargarlos le...'
+[12:00:47] Nodo desconectado: ('127.0.0.1', 63472)

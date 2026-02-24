@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Preventa Sonorización Literaria</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-8 rounded shadow-md w-full max-w-md">
+        <h1 class="text-2xl font-bold mb-4">Regístrate para recibir notificaciones</h1>
+        <form id="emailForm" class="space-y-4">
+            <input type="email" id="email" name="email" placeholder="Tu correo electrónico" required
+                class="w-full p-2 border border-gray-300 rounded" />
+            <button type="submit" class="w-full bg-blue-600 text-white p-2 rounded hover:bg-blue-700">
+                Enviar
+            </button>
+        </form>
+        <p id="responseMessage" class="mt-4 text-center"></p>
+    </div>
+
+    <script>
+        const form = document.getElementById('emailForm');
+        const responseMessage = document.getElementById('responseMessage');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = document.getElementById('email').value;
+
+            const response = await fetch('/register', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email })
+            });
+
+            const data = await response.json();
+            if (response.ok) {
+                responseMessage.textContent = data.message;
+                responseMessage.className = "text-green-600";
+                form.reset();
+            } else {
+                responseMessage.textContent = data.detail || 'Error al enviar el correo';
+                responseMessage.className = "text-red-600";
+            }
+        });
+    </script>
+</body>
+</html>
