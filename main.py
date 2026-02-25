@@ -13,6 +13,7 @@ class UserEmail(BaseModel):
 
 # Montar carpeta estática para servir frontend
 app.mount("/static", StaticFiles(directory="static"), name="static")
+app.mount("/resources", StaticFiles(directory="resources"), name="resources")
 
 # Ruta para servir la página principal
 @app.get("/", response_class=HTMLResponse)
